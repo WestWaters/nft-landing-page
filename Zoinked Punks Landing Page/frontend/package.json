@@ -1,14 +1,14 @@
 {
   "name": "nft-landing-page",
   "version": "1.0.0",
-  "description": "Landing page to be used with an NFTPort Collection Contract",
+  "description": "Landing page to be used with Netlify",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeSTACKr/nft-landing-page.git"
+    "url": "git+https://github.com/WestWaters/nft-landing-page/tree/main/Zoinked%20Punks%20Landing%20Page"
   },
   "keywords": [],
   "author": "Jesse Hall (codeSTACKr)",
